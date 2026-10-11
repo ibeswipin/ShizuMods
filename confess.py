@@ -6,7 +6,7 @@
 # 👤 https://t.me/hikamoru
 
 # banner: https://github.com/AmoreForever/shizuassets/blob/master/confess.jpg?raw=true
-# Test
+# Test 1
 
 import string
 import logging
